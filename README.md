@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sivarajraja
+- ✨ I'm studying in SRM UNIVERSITY
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning data structure and algorithm
+-
